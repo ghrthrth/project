@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="r11">
+    <folder id="0">
+        <file id="0" name="Безымянный.pnggerg.png" width="800" height="600" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="entity_000">
+        <obj_info name="entity_000_Безымянный" realname="Безымянный" type="sprite">
+            <frames>
+                <i folder="0" file="0"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_веревка" realname="веревка" type="bone" w="94.0053" h="10"/>
+        <obj_info name="entity_000_груша" realname="груша" type="bone" w="233.009" h="10"/>
+        <animation id="0" name="kva" length="1000" interval="100">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="1" key="0"/>
+                    <bone_ref id="1" parent="0" timeline="2" key="0"/>
+                    <object_ref id="0" parent="0" name="Безымянный" folder="0" file="0" abs_x="-344.113237" abs_y="195.156787" abs_angle="0.643746" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" obj="0" name="Безымянный">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="-12" y="-342" angle="90"/>
+                </key>
+            </timeline>
+            <timeline id="1" obj="1" name="веревка" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="-2" y="187" angle="270.643746"/>
+                </key>
+            </timeline>
+            <timeline id="2" obj="2" name="груша" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="110.036327" y="-2.829627" angle="0.117709"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="1" name="kva1" length="1000" interval="100">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="1" key="0"/>
+                    <bone_ref id="1" parent="0" timeline="2" key="0"/>
+                    <object_ref id="0" parent="0" name="Безымянный" folder="0" file="0" abs_x="-344.113237" abs_y="195.156787" abs_angle="0.643746" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="500">
+                    <bone_ref id="0" timeline="1" key="1"/>
+                    <bone_ref id="1" parent="0" timeline="2" key="0"/>
+                    <object_ref id="0" parent="0" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="2" time="794">
+                    <bone_ref id="0" timeline="1" key="2"/>
+                    <bone_ref id="1" parent="0" timeline="2" key="0"/>
+                    <object_ref id="0" parent="0" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" obj="0" name="Безымянный">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="-12" y="-342" angle="90"/>
+                </key>
+            </timeline>
+            <timeline id="1" obj="1" name="веревка" object_type="bone">
+                <key id="0">
+                    <bone x="-2" y="187" angle="270.643746"/>
+                </key>
+                <key id="1" time="500" spin="-1">
+                    <bone x="-2" y="187" angle="310.544397"/>
+                </key>
+                <key id="2" time="794">
+                    <bone x="-2" y="187" angle="236.14899"/>
+                </key>
+            </timeline>
+            <timeline id="2" obj="2" name="груша" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="110.036327" y="-2.829627" angle="0.117709"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

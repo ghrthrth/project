@@ -1,0 +1,326 @@
+{
+	"entity": [
+		{
+			"animation": [
+				{
+					"id": 0,
+					"interval": 100,
+					"length": 1000,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 1
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0.6437460000000215,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -344.11323685171044,
+										"abs_y": -195.1567867966179,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "Безымянный",
+										"parent": 0,
+										"timeline": "0",
+										"z_index": "0"
+									}
+								]
+							}
+						]
+					},
+					"name": "kva",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 90,
+										"file": 0,
+										"folder": 0,
+										"x": -12.00000000000006,
+										"y": -342
+									},
+									"spin": 0
+								}
+							],
+							"name": "Безымянный",
+							"obj": 0
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"bone": {
+										"angle": 270.643746,
+										"x": -2,
+										"y": 187
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "веревка",
+							"obj": 1,
+							"object_type": "bone"
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"bone": {
+										"angle": 0.11770899999999074,
+										"x": 110.036327,
+										"y": -2.8296270000000083
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "груша",
+							"obj": 2,
+							"object_type": "bone"
+						}
+					]
+				},
+				{
+					"id": 1,
+					"interval": 100,
+					"length": 1000,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 1
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0.6437460000000215,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -344.11323685171044,
+										"abs_y": -195.1567867966179,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "Безымянный",
+										"parent": 0,
+										"timeline": "0",
+										"z_index": "0"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 1
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "0",
+										"z_index": "0"
+									}
+								],
+								"time": 500
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": 1
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									}
+								],
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "0",
+										"z_index": "0"
+									}
+								],
+								"time": 794
+							}
+						]
+					},
+					"name": "kva1",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 90,
+										"file": 0,
+										"folder": 0,
+										"x": -12.00000000000006,
+										"y": -342
+									},
+									"spin": 0
+								}
+							],
+							"name": "Безымянный",
+							"obj": 0
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"bone": {
+										"angle": 270.643746,
+										"x": -2,
+										"y": 187
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 310.54439716667366,
+										"x": -2,
+										"y": 187
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 500
+								},
+								{
+									"bone": {
+										"angle": 236.1489896964418,
+										"x": -2,
+										"y": 187
+									},
+									"id": 2,
+									"time": 794
+								}
+							],
+							"name": "веревка",
+							"obj": 1,
+							"object_type": "bone"
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"bone": {
+										"angle": 0.11770899999999074,
+										"x": 110.036327,
+										"y": -2.8296270000000083
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "груша",
+							"obj": 2,
+							"object_type": "bone"
+						}
+					]
+				}
+			],
+			"character_map": [],
+			"id": 0,
+			"name": "entity_000",
+			"obj_info": [
+				{
+					"frames": [
+						{
+							"file": 0,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_Безымянный",
+					"realname": "Безымянный",
+					"type": "sprite"
+				},
+				{
+					"h": 10,
+					"name": "entity_000_веревка",
+					"realname": "веревка",
+					"type": "bone",
+					"w": 94.0053
+				},
+				{
+					"h": 10,
+					"name": "entity_000_груша",
+					"realname": "груша",
+					"type": "bone",
+					"w": 233.009
+				}
+			]
+		}
+	],
+	"folder": [
+		{
+			"file": [
+				{
+					"height": 600,
+					"id": 0,
+					"name": "Безымянный.pnggerg.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 800
+				}
+			],
+			"id": 0
+		}
+	],
+	"generator": "BrashMonkey Spriter",
+	"generator_version": "r11",
+	"scon_version": "1.0"
+}

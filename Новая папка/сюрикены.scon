@@ -1,0 +1,2592 @@
+{
+	"entity": [
+		{
+			"animation": [
+				{
+					"id": 0,
+					"interval": 100,
+					"length": 1000,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 1,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 13
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 14
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 4,
+										"timeline": 17
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 0,
+										"timeline": 15
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 6,
+										"timeline": 16
+									},
+									{
+										"id": 8,
+										"key": 0,
+										"parent": 0,
+										"timeline": 18
+									},
+									{
+										"id": 9,
+										"key": 0,
+										"parent": 8,
+										"timeline": 19
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0.0000010000000543186616,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -361.0000029790141,
+										"abs_y": -305.9999956859201,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "голова",
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 9.999999974752427e-7,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -354.0000050461224,
+										"abs_y": -309.99999579835054,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "левая нога",
+										"parent": 7,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 55.96461290199403,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -392.62580767743333,
+										"abs_y": 66.12255719955631,
+										"file": 2,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "левая рука",
+										"parent": 9,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 9.999999974752427e-7,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -356.00000457884204,
+										"abs_y": -316.999995564562,
+										"file": 3,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "левое бедро",
+										"parent": 6,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 55.96461290199397,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -386.53550792569513,
+										"abs_y": 56.35335711427362,
+										"file": 5,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "плечо",
+										"parent": 8,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 3.6890220000000227,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -409.6707088150187,
+										"abs_y": -304.28638814950347,
+										"file": 6,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "правая нога",
+										"parent": 5,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 308.80794166809903,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -32.67954865964893,
+										"abs_y": -550.1540910500139,
+										"file": 7,
+										"folder": 0,
+										"id": 6,
+										"key": 0,
+										"name": "правая рука",
+										"parent": 2,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0.0000010000000543186616,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -382.00000428728026,
+										"abs_y": -335.99999550085334,
+										"file": 8,
+										"folder": 0,
+										"id": 7,
+										"key": 0,
+										"name": "правое бедро",
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 308.80794166809903,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -30.630317690306043,
+										"abs_y": -542.8191993962104,
+										"file": 9,
+										"folder": 0,
+										"id": 8,
+										"key": 0,
+										"name": "правое плечо",
+										"parent": 1,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -332.0000020982002,
+										"abs_y": -281.99999721232564,
+										"file": 10,
+										"folder": 0,
+										"id": 9,
+										"key": 0,
+										"name": "тело",
+										"parent": 0,
+										"timeline": "9",
+										"z_index": "9"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": -0.0018726591760300335,
+										"abs_pivot_y": 1.0008319467554079,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -584.498127340824,
+										"abs_y": -205.49916805324472,
+										"file": 11,
+										"folder": 0,
+										"id": 10,
+										"key": 0,
+										"name": "пп",
+										"timeline": "20",
+										"z_index": "10"
+									}
+								]
+							}
+						]
+					},
+					"name": "NewAnimation",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 273.366461,
+										"file": 0,
+										"folder": 0,
+										"x": 141.578795,
+										"y": 385.97985
+									},
+									"spin": 0
+								}
+							],
+							"name": "голова",
+							"obj": 0
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 98.601385,
+										"file": 1,
+										"folder": 0,
+										"x": -416.165209,
+										"y": -264.213019
+									},
+									"spin": 0
+								}
+							],
+							"name": "левая нога",
+							"obj": 1
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 218.065651,
+										"file": 2,
+										"folder": 0,
+										"x": 213.95880316437587,
+										"y": 25.220499432966477
+									},
+									"spin": 0
+								}
+							],
+							"name": "левая рука",
+							"obj": 2
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 152.700428,
+										"file": 3,
+										"folder": 0,
+										"x": 75.532756,
+										"y": -457.610973
+									},
+									"spin": 0
+								}
+							],
+							"name": "левое бедро",
+							"obj": 3
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 191.88865799999996,
+										"file": 5,
+										"folder": 0,
+										"x": 333.2923944525708,
+										"y": -105.07613920532484
+									},
+									"spin": 0
+								}
+							],
+							"name": "плечо",
+							"obj": 4
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 79.43898899999999,
+										"file": 6,
+										"folder": 0,
+										"x": -534.134983,
+										"y": -355.118036
+									},
+									"spin": 0
+								}
+							],
+							"name": "правая нога",
+							"obj": 5
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 331.699244,
+										"file": 7,
+										"folder": 0,
+										"x": -346.634699,
+										"y": 431.972667
+									},
+									"spin": 0
+								}
+							],
+							"name": "правая рука",
+							"obj": 6
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 28.979708000000016,
+										"file": 8,
+										"folder": 0,
+										"x": -533.811144,
+										"y": 154.743862
+									},
+									"spin": 0
+								}
+							],
+							"name": "правое бедро",
+							"obj": 7
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 14.845452000000023,
+										"file": 9,
+										"folder": 0,
+										"x": -443.492447,
+										"y": 92.457828
+									},
+									"spin": 0
+								}
+							],
+							"name": "правое плечо",
+							"obj": 8
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 278.997143,
+										"file": 10,
+										"folder": 0,
+										"x": 229.631121,
+										"y": 359.332086
+									},
+									"spin": 0
+								}
+							],
+							"name": "тело",
+							"obj": 9
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"bone": {
+										"angle": 81.002857,
+										"x": -13,
+										"y": -1
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "тело_000",
+							"obj": 10,
+							"object_type": "bone"
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"bone": {
+										"angle": 212.959632668099,
+										"x": 111.95535699999998,
+										"y": -61.24539100000005
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_001",
+							"obj": 11,
+							"object_type": "bone"
+						},
+						{
+							"id": 12,
+							"key": [
+								{
+									"bone": {
+										"angle": 43.146208,
+										"x": 97.29093,
+										"y": 15.442635
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_002",
+							"obj": 12,
+							"object_type": "bone"
+						},
+						{
+							"id": 13,
+							"key": [
+								{
+									"bone": {
+										"angle": 5.630682999999976,
+										"x": 145.775719,
+										"y": -6.280101
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_003",
+							"obj": 13,
+							"object_type": "bone"
+						},
+						{
+							"id": 14,
+							"key": [
+								{
+									"bone": {
+										"angle": 250.017436,
+										"x": -52.70182,
+										"y": -31.630969
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_004",
+							"obj": 14,
+							"object_type": "bone"
+						},
+						{
+							"id": 15,
+							"key": [
+								{
+									"bone": {
+										"angle": 126.296716,
+										"x": -63.657016,
+										"y": 56.743143
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_005",
+							"obj": 15,
+							"object_type": "bone"
+						},
+						{
+							"id": 16,
+							"key": [
+								{
+									"bone": {
+										"angle": 54.099042999999995,
+										"x": 106.978461,
+										"y": 41.564515
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_006",
+							"obj": 16,
+							"object_type": "bone"
+						},
+						{
+							"id": 17,
+							"key": [
+								{
+									"bone": {
+										"angle": 313.22974,
+										"x": 81.934304,
+										"y": -32.353822
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_007",
+							"obj": 17,
+							"object_type": "bone"
+						},
+						{
+							"id": 18,
+							"key": [
+								{
+									"bone": {
+										"angle": 143.07309790199403,
+										"x": 90.21781144070295,
+										"y": 76.0443721412067
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_008",
+							"obj": 18,
+							"object_type": "bone"
+						},
+						{
+							"id": 19,
+							"key": [
+								{
+									"bone": {
+										"angle": 333.823007,
+										"x": 141.32319,
+										"y": -30.541054
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_009",
+							"obj": 19,
+							"object_type": "bone"
+						},
+						{
+							"id": 20,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 11,
+										"folder": 0,
+										"pivot_x": -0.0018726591760300335,
+										"pivot_y": 1.0008319467554079,
+										"x": -584.498127340824,
+										"y": 205.49916805324472
+									},
+									"spin": 0
+								}
+							],
+							"name": "пп",
+							"obj": 20
+						}
+					]
+				},
+				{
+					"id": 1,
+					"interval": 100,
+					"length": 1000,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 1,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 13
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 14
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 4,
+										"timeline": 17
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 0,
+										"timeline": 15
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 6,
+										"timeline": 16
+									},
+									{
+										"id": 8,
+										"key": 0,
+										"parent": 0,
+										"timeline": 18
+									},
+									{
+										"id": 9,
+										"key": 0,
+										"parent": 8,
+										"timeline": 19
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0.0000010000000543186616,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -361.0000029790141,
+										"abs_y": -305.9999956859201,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "голова",
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 9.999999974752427e-7,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -354.0000050461224,
+										"abs_y": -309.99999579835054,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "левая нога",
+										"parent": 7,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 55.96461290199403,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -392.62580767743333,
+										"abs_y": 66.12255719955631,
+										"file": 2,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "левая рука",
+										"parent": 9,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 9.999999974752427e-7,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -356.00000457884204,
+										"abs_y": -316.999995564562,
+										"file": 3,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "левое бедро",
+										"parent": 6,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 55.96461290199397,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -386.53550792569513,
+										"abs_y": 56.35335711427362,
+										"file": 5,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "плечо",
+										"parent": 8,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 3.6890220000000227,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -409.6707088150187,
+										"abs_y": -304.28638814950347,
+										"file": 6,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "правая нога",
+										"parent": 5,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 308.80794166809903,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -32.67954865964893,
+										"abs_y": -550.1540910500139,
+										"file": 7,
+										"folder": 0,
+										"id": 6,
+										"key": 0,
+										"name": "правая рука",
+										"parent": 2,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0.0000010000000543186616,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -382.00000428728026,
+										"abs_y": -335.99999550085334,
+										"file": 8,
+										"folder": 0,
+										"id": 7,
+										"key": 0,
+										"name": "правое бедро",
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 308.80794166809903,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -30.630317690306043,
+										"abs_y": -542.8191993962104,
+										"file": 9,
+										"folder": 0,
+										"id": 8,
+										"key": 0,
+										"name": "правое плечо",
+										"parent": 1,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -332.0000020982002,
+										"abs_y": -281.99999721232564,
+										"file": 10,
+										"folder": 0,
+										"id": 9,
+										"key": 0,
+										"name": "тело",
+										"parent": 0,
+										"timeline": "9",
+										"z_index": "9"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": -0.0018726591760300335,
+										"abs_pivot_y": 1.0008319467554079,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -584.498127340824,
+										"abs_y": -205.49916805324472,
+										"file": 11,
+										"folder": 0,
+										"id": 10,
+										"key": 0,
+										"name": "пп",
+										"timeline": "20",
+										"z_index": "10"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 1,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 13
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 14
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 4,
+										"timeline": 17
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 0,
+										"timeline": 15
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 6,
+										"timeline": 16
+									},
+									{
+										"id": 8,
+										"key": 1,
+										"parent": 0,
+										"timeline": 18
+									},
+									{
+										"id": 9,
+										"key": 0,
+										"parent": 8,
+										"timeline": 19
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 7,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 9,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 6,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 8,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 2,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"id": 8,
+										"key": 0,
+										"parent": 1,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"id": 9,
+										"key": 0,
+										"parent": 0,
+										"timeline": "9",
+										"z_index": "9"
+									},
+									{
+										"id": 10,
+										"key": 1,
+										"timeline": "20",
+										"z_index": "10"
+									}
+								],
+								"time": 503
+							}
+						]
+					},
+					"name": "attack",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 273.366461,
+										"file": 0,
+										"folder": 0,
+										"x": 141.578795,
+										"y": 385.97985
+									},
+									"spin": 0
+								}
+							],
+							"name": "голова",
+							"obj": 0
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 98.601385,
+										"file": 1,
+										"folder": 0,
+										"x": -416.165209,
+										"y": -264.213019
+									},
+									"spin": 0
+								}
+							],
+							"name": "левая нога",
+							"obj": 1
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 218.065651,
+										"file": 2,
+										"folder": 0,
+										"x": 213.95880316437587,
+										"y": 25.220499432966477
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 218.065651,
+										"file": 2,
+										"folder": 0,
+										"x": 210.37183865026918,
+										"y": -2.7046972969364824
+									},
+									"spin": 0,
+									"time": 503
+								}
+							],
+							"name": "левая рука",
+							"obj": 2
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 152.700428,
+										"file": 3,
+										"folder": 0,
+										"x": 75.532756,
+										"y": -457.610973
+									},
+									"spin": 0
+								}
+							],
+							"name": "левое бедро",
+							"obj": 3
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 191.88865799999996,
+										"file": 5,
+										"folder": 0,
+										"x": 333.2923944525708,
+										"y": -105.07613920532484
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 191.88865799999996,
+										"file": 5,
+										"folder": 0,
+										"x": 294.69764639155,
+										"y": -125.20450114879898
+									},
+									"spin": 0,
+									"time": 503
+								}
+							],
+							"name": "плечо",
+							"obj": 4
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 79.43898899999999,
+										"file": 6,
+										"folder": 0,
+										"x": -534.134983,
+										"y": -355.118036
+									},
+									"spin": 0
+								}
+							],
+							"name": "правая нога",
+							"obj": 5
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 331.699244,
+										"file": 7,
+										"folder": 0,
+										"x": -346.634699,
+										"y": 431.972667
+									},
+									"spin": 0
+								}
+							],
+							"name": "правая рука",
+							"obj": 6
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 28.979708000000016,
+										"file": 8,
+										"folder": 0,
+										"x": -533.811144,
+										"y": 154.743862
+									},
+									"spin": 0
+								}
+							],
+							"name": "правое бедро",
+							"obj": 7
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 14.845452000000023,
+										"file": 9,
+										"folder": 0,
+										"x": -443.492447,
+										"y": 92.457828
+									},
+									"spin": 0
+								}
+							],
+							"name": "правое плечо",
+							"obj": 8
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 278.997143,
+										"file": 10,
+										"folder": 0,
+										"x": 229.631121,
+										"y": 359.332086
+									},
+									"spin": 0
+								}
+							],
+							"name": "тело",
+							"obj": 9
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"bone": {
+										"angle": 81.002857,
+										"x": -13,
+										"y": -1
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "тело_000",
+							"obj": 10,
+							"object_type": "bone"
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"bone": {
+										"angle": 212.959632668099,
+										"x": 111.95535699999998,
+										"y": -61.24539100000005
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_001",
+							"obj": 11,
+							"object_type": "bone"
+						},
+						{
+							"id": 12,
+							"key": [
+								{
+									"bone": {
+										"angle": 43.146208,
+										"x": 97.29093,
+										"y": 15.442635
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_002",
+							"obj": 12,
+							"object_type": "bone"
+						},
+						{
+							"id": 13,
+							"key": [
+								{
+									"bone": {
+										"angle": 5.630682999999976,
+										"x": 145.775719,
+										"y": -6.280101
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_003",
+							"obj": 13,
+							"object_type": "bone"
+						},
+						{
+							"id": 14,
+							"key": [
+								{
+									"bone": {
+										"angle": 250.017436,
+										"x": -52.70182,
+										"y": -31.630969
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_004",
+							"obj": 14,
+							"object_type": "bone"
+						},
+						{
+							"id": 15,
+							"key": [
+								{
+									"bone": {
+										"angle": 126.296716,
+										"x": -63.657016,
+										"y": 56.743143
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_005",
+							"obj": 15,
+							"object_type": "bone"
+						},
+						{
+							"id": 16,
+							"key": [
+								{
+									"bone": {
+										"angle": 54.099042999999995,
+										"x": 106.978461,
+										"y": 41.564515
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_006",
+							"obj": 16,
+							"object_type": "bone"
+						},
+						{
+							"id": 17,
+							"key": [
+								{
+									"bone": {
+										"angle": 313.22974,
+										"x": 81.934304,
+										"y": -32.353822
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_007",
+							"obj": 17,
+							"object_type": "bone"
+						},
+						{
+							"id": 18,
+							"key": [
+								{
+									"bone": {
+										"angle": 143.07309790199403,
+										"x": 90.21781144070295,
+										"y": 76.0443721412067
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 49.18209288198477,
+										"x": 90.21781144070296,
+										"y": 76.0443721412067
+									},
+									"id": 1,
+									"time": 503
+								}
+							],
+							"name": "bone_008",
+							"obj": 18,
+							"object_type": "bone"
+						},
+						{
+							"id": 19,
+							"key": [
+								{
+									"bone": {
+										"angle": 333.823007,
+										"x": 141.32319,
+										"y": -30.541054
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_009",
+							"obj": 19,
+							"object_type": "bone"
+						},
+						{
+							"id": 20,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 11,
+										"folder": 0,
+										"pivot_x": -0.0018726591760300335,
+										"pivot_y": 1.0008319467554079,
+										"x": -584.498127340824,
+										"y": 205.49916805324472
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"file": 11,
+										"folder": 0,
+										"pivot_x": -0.0018726591760300335,
+										"pivot_y": 1.0008319467554079,
+										"x": -399.0085550537967,
+										"y": 546.2202709164471
+									},
+									"spin": 0,
+									"time": 503
+								}
+							],
+							"name": "пп",
+							"obj": 20
+						}
+					]
+				},
+				{
+					"id": 2,
+					"interval": 100,
+					"length": 1000,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 1,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 13
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 14
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 4,
+										"timeline": 17
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 0,
+										"timeline": 15
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 6,
+										"timeline": 16
+									},
+									{
+										"id": 8,
+										"key": 0,
+										"parent": 0,
+										"timeline": 18
+									},
+									{
+										"id": 9,
+										"key": 0,
+										"parent": 8,
+										"timeline": 19
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 352.44365495279357,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -336.1599559311904,
+										"abs_y": -354.15175276422997,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "голова",
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0.31558675770730815,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -356.4810865862172,
+										"abs_y": -308.8970659612609,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "левая нога",
+										"parent": 7,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 55.96461290199403,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -392.62580767743333,
+										"abs_y": 66.12255719955631,
+										"file": 2,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "левая рука",
+										"parent": 9,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 9.999999974752427e-7,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -356.00000457884204,
+										"abs_y": -316.999995564562,
+										"file": 3,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "левое бедро",
+										"parent": 6,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 55.96461290199397,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -386.53550792569513,
+										"abs_y": 56.35335711427362,
+										"file": 5,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "плечо",
+										"parent": 8,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 353.992756407808,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -330.4044483267127,
+										"abs_y": -378.25441263387046,
+										"file": 6,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "правая нога",
+										"parent": 5,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 308.80794166809903,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -32.67954865964893,
+										"abs_y": -550.1540910500139,
+										"file": 7,
+										"folder": 0,
+										"id": 6,
+										"key": 0,
+										"name": "правая рука",
+										"parent": 2,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0.0000010000000543186616,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -382.00000428728026,
+										"abs_y": -335.99999550085334,
+										"file": 8,
+										"folder": 0,
+										"id": 7,
+										"key": 0,
+										"name": "правое бедро",
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 308.80794166809903,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -30.630317690306043,
+										"abs_y": -542.8191993962104,
+										"file": 9,
+										"folder": 0,
+										"id": 8,
+										"key": 0,
+										"name": "правое плечо",
+										"parent": 1,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -332.0000020982002,
+										"abs_y": -281.99999721232564,
+										"file": 10,
+										"folder": 0,
+										"id": 9,
+										"key": 0,
+										"name": "тело",
+										"parent": 0,
+										"timeline": "9",
+										"z_index": "9"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": -0.0018726591760300335,
+										"abs_pivot_y": 1.0008319467554079,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -584.498127340824,
+										"abs_y": -205.49916805324472,
+										"file": 11,
+										"folder": 0,
+										"id": 10,
+										"key": 0,
+										"name": "пп",
+										"timeline": "20",
+										"z_index": "10"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 1,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 13
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 14
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 4,
+										"timeline": 17
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 0,
+										"timeline": 15
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 6,
+										"timeline": 16
+									},
+									{
+										"id": 8,
+										"key": 0,
+										"parent": 0,
+										"timeline": 18
+									},
+									{
+										"id": 9,
+										"key": 0,
+										"parent": 8,
+										"timeline": 19
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 7,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 9,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 6,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 8,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 2,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"id": 8,
+										"key": 0,
+										"parent": 1,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"id": 9,
+										"key": 0,
+										"parent": 0,
+										"timeline": "9",
+										"z_index": "9"
+									},
+									{
+										"id": 10,
+										"key": 0,
+										"timeline": "20",
+										"z_index": "10"
+									}
+								],
+								"time": 499
+							}
+						]
+					},
+					"name": "stand",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 273.366461,
+										"file": 0,
+										"folder": 0,
+										"x": 141.578795,
+										"y": 385.97985
+									},
+									"spin": 0
+								}
+							],
+							"name": "голова",
+							"obj": 0
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 98.601385,
+										"file": 1,
+										"folder": 0,
+										"x": -416.165209,
+										"y": -264.213019
+									},
+									"spin": 0
+								}
+							],
+							"name": "левая нога",
+							"obj": 1
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 218.065651,
+										"file": 2,
+										"folder": 0,
+										"x": 213.95880316437587,
+										"y": 25.220499432966477
+									},
+									"spin": 0
+								}
+							],
+							"name": "левая рука",
+							"obj": 2
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 152.700428,
+										"file": 3,
+										"folder": 0,
+										"x": 75.532756,
+										"y": -457.610973
+									},
+									"spin": 0
+								}
+							],
+							"name": "левое бедро",
+							"obj": 3
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 191.88865799999996,
+										"file": 5,
+										"folder": 0,
+										"x": 333.2923944525708,
+										"y": -105.07613920532484
+									},
+									"spin": 0
+								}
+							],
+							"name": "плечо",
+							"obj": 4
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 79.43898899999999,
+										"file": 6,
+										"folder": 0,
+										"x": -534.134983,
+										"y": -355.118036
+									},
+									"spin": 0
+								}
+							],
+							"name": "правая нога",
+							"obj": 5
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 331.699244,
+										"file": 7,
+										"folder": 0,
+										"x": -346.634699,
+										"y": 431.972667
+									},
+									"spin": 0
+								}
+							],
+							"name": "правая рука",
+							"obj": 6
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 28.979708000000016,
+										"file": 8,
+										"folder": 0,
+										"x": -533.811144,
+										"y": 154.743862
+									},
+									"spin": 0
+								}
+							],
+							"name": "правое бедро",
+							"obj": 7
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 14.845452000000023,
+										"file": 9,
+										"folder": 0,
+										"x": -443.492447,
+										"y": 92.457828
+									},
+									"spin": 0
+								}
+							],
+							"name": "правое плечо",
+							"obj": 8
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 278.997143,
+										"file": 10,
+										"folder": 0,
+										"x": 229.631121,
+										"y": 359.332086
+									},
+									"spin": 0
+								}
+							],
+							"name": "тело",
+							"obj": 9
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"bone": {
+										"angle": 81.002857,
+										"x": -13,
+										"y": -1
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 81.59662890943918,
+										"x": -13,
+										"y": -1
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 499
+								}
+							],
+							"name": "тело_000",
+							"obj": 10,
+							"object_type": "bone"
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"bone": {
+										"angle": 212.959632668099,
+										"x": 111.95535699999998,
+										"y": -61.24539100000005
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_001",
+							"obj": 11,
+							"object_type": "bone"
+						},
+						{
+							"id": 12,
+							"key": [
+								{
+									"bone": {
+										"angle": 43.146208,
+										"x": 97.29093,
+										"y": 15.442635
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 29.03748345261971,
+										"x": 97.29093000000002,
+										"y": 15.442635000000006
+									},
+									"id": 1,
+									"time": 499
+								}
+							],
+							"name": "bone_002",
+							"obj": 12,
+							"object_type": "bone"
+						},
+						{
+							"id": 13,
+							"key": [
+								{
+									"bone": {
+										"angle": 358.07433695279354,
+										"x": 145.77571900000004,
+										"y": -6.2801010000000135
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_003",
+							"obj": 13,
+							"object_type": "bone"
+						},
+						{
+							"id": 14,
+							"key": [
+								{
+									"bone": {
+										"angle": 250.017436,
+										"x": -52.70182,
+										"y": -31.630969
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_004",
+							"obj": 14,
+							"object_type": "bone"
+						},
+						{
+							"id": 15,
+							"key": [
+								{
+									"bone": {
+										"angle": 126.296716,
+										"x": -63.657016,
+										"y": 56.743143
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_005",
+							"obj": 15,
+							"object_type": "bone"
+						},
+						{
+							"id": 16,
+							"key": [
+								{
+									"bone": {
+										"angle": 54.414628757707305,
+										"x": 106.97846100000001,
+										"y": 41.56451500000001
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_006",
+							"obj": 16,
+							"object_type": "bone"
+						},
+						{
+							"id": 17,
+							"key": [
+								{
+									"bone": {
+										"angle": 303.53347440780794,
+										"x": 81.93430400000001,
+										"y": -32.353822000000015
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_007",
+							"obj": 17,
+							"object_type": "bone"
+						},
+						{
+							"id": 18,
+							"key": [
+								{
+									"bone": {
+										"angle": 143.07309790199403,
+										"x": 90.21781144070295,
+										"y": 76.0443721412067
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_008",
+							"obj": 18,
+							"object_type": "bone"
+						},
+						{
+							"id": 19,
+							"key": [
+								{
+									"bone": {
+										"angle": 333.823007,
+										"x": 141.32319,
+										"y": -30.541054
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_009",
+							"obj": 19,
+							"object_type": "bone"
+						},
+						{
+							"id": 20,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 11,
+										"folder": 0,
+										"pivot_x": -0.0018726591760300335,
+										"pivot_y": 1.0008319467554079,
+										"x": -584.498127340824,
+										"y": 205.49916805324472
+									},
+									"spin": 0
+								}
+							],
+							"name": "пп",
+							"obj": 20
+						}
+					]
+				}
+			],
+			"character_map": [],
+			"id": 0,
+			"name": "entity_000",
+			"obj_info": [
+				{
+					"frames": [
+						{
+							"file": 0,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_голова",
+					"realname": "голова",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 1,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_левая нога",
+					"realname": "левая нога",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 2,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_левая рука",
+					"realname": "левая рука",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 3,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_левое бедро",
+					"realname": "левое бедро",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 5,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_плечо",
+					"realname": "плечо",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 6,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_правая нога",
+					"realname": "правая нога",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 7,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_правая рука",
+					"realname": "правая рука",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 8,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_правое бедро",
+					"realname": "правое бедро",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 9,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_правое плечо",
+					"realname": "правое плечо",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 10,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_тело",
+					"realname": "тело",
+					"type": "sprite"
+				},
+				{
+					"h": 10,
+					"name": "entity_000_тело_000",
+					"realname": "тело_000",
+					"type": "bone",
+					"w": 121.495
+				},
+				{
+					"h": 10,
+					"name": "entity_000_bone_001",
+					"realname": "bone_001",
+					"type": "bone",
+					"w": 85.8662
+				},
+				{
+					"h": 10,
+					"name": "entity_000_bone_002",
+					"realname": "bone_002",
+					"type": "bone",
+					"w": 103.354
+				},
+				{
+					"h": 10,
+					"name": "entity_000_bone_003",
+					"realname": "bone_003",
+					"type": "bone",
+					"w": 68.1175
+				},
+				{
+					"h": 10,
+					"name": "entity_000_bone_004",
+					"realname": "bone_004",
+					"type": "bone",
+					"w": 74.3034
+				},
+				{
+					"h": 10,
+					"name": "entity_000_bone_005",
+					"realname": "bone_005",
+					"type": "bone",
+					"w": 69.7711
+				},
+				{
+					"h": 10,
+					"name": "entity_000_bone_006",
+					"realname": "bone_006",
+					"type": "bone",
+					"w": 120.354
+				},
+				{
+					"h": 10,
+					"name": "entity_000_bone_007",
+					"realname": "bone_007",
+					"type": "bone",
+					"w": 120.033
+				},
+				{
+					"h": 10,
+					"name": "entity_000_bone_008",
+					"realname": "bone_008",
+					"type": "bone",
+					"w": 116.499
+				},
+				{
+					"h": 10,
+					"name": "entity_000_bone_009",
+					"realname": "bone_009",
+					"type": "bone",
+					"w": 105.423
+				},
+				{
+					"frames": [
+						{
+							"file": 11,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_пп",
+					"realname": "пп",
+					"type": "sprite"
+				}
+			]
+		}
+	],
+	"folder": [
+		{
+			"file": [
+				{
+					"height": 633,
+					"id": 0,
+					"name": "голова.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 685
+				},
+				{
+					"height": 622,
+					"id": 1,
+					"name": "левая нога.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 676
+				},
+				{
+					"height": 633,
+					"id": 2,
+					"name": "левая рука.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 685
+				},
+				{
+					"height": 622,
+					"id": 3,
+					"name": "левое бедро.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 676
+				},
+				{
+					"height": 622,
+					"id": 4,
+					"name": "ноги.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 676
+				},
+				{
+					"height": 633,
+					"id": 5,
+					"name": "плечо.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 685
+				},
+				{
+					"height": 622,
+					"id": 6,
+					"name": "правая нога.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 676
+				},
+				{
+					"height": 611,
+					"id": 7,
+					"name": "правая рука.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 660
+				},
+				{
+					"height": 622,
+					"id": 8,
+					"name": "правое бедро.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 676
+				},
+				{
+					"height": 611,
+					"id": 9,
+					"name": "правое плечо.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 660
+				},
+				{
+					"height": 611,
+					"id": 10,
+					"name": "тело.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 660
+				},
+				{
+					"height": 600,
+					"id": 11,
+					"name": "пп.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 800
+				}
+			],
+			"id": 0
+		}
+	],
+	"generator": "BrashMonkey Spriter",
+	"generator_version": "r11",
+	"scon_version": "1.0"
+}

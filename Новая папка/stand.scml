@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="r11">
+    <folder id="0">
+        <file id="0" name="бедро.png" width="306" height="287" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="голова.png" width="147" height="177" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="икра.png" width="144" height="203" pivot_x="0" pivot_y="1"/>
+        <file id="3" name="кисть.png" width="136" height="138" pivot_x="0" pivot_y="1"/>
+        <file id="4" name="ножки.png" width="208" height="134" pivot_x="0" pivot_y="1"/>
+        <file id="5" name="плечо.png" width="192" height="173" pivot_x="0" pivot_y="1"/>
+        <file id="6" name="предплечье.png" width="273" height="271" pivot_x="0" pivot_y="1"/>
+        <file id="7" name="сухожилия между преплечьем и плечем.png" width="269" height="253" pivot_x="0" pivot_y="1"/>
+        <file id="8" name="тело.png" width="394" height="450" pivot_x="0" pivot_y="1"/>
+        <file id="9" name="чашечная кость.png" width="168" height="151" pivot_x="0" pivot_y="1"/>
+        <file id="10" name="шея.png" width="280" height="249" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="entity_000">
+        <obj_info name="entity_000_бедро" realname="бедро" type="sprite">
+            <frames>
+                <i folder="0" file="0"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_голова" realname="голова" type="sprite">
+            <frames>
+                <i folder="0" file="1"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_икра" realname="икра" type="sprite">
+            <frames>
+                <i folder="0" file="2"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_кисть" realname="кисть" type="sprite">
+            <frames>
+                <i folder="0" file="3"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_ножки" realname="ножки" type="sprite">
+            <frames>
+                <i folder="0" file="4"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_плечо" realname="плечо" type="sprite">
+            <frames>
+                <i folder="0" file="5"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_предплечье" realname="предплечье" type="sprite">
+            <frames>
+                <i folder="0" file="6"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_сухожилия между преплечьем и плечем" realname="сухожилия между преплечьем и плечем" type="sprite">
+            <frames>
+                <i folder="0" file="7"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_тело" realname="тело" type="sprite">
+            <frames>
+                <i folder="0" file="8"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_чашечная кость" realname="чашечная кость" type="sprite">
+            <frames>
+                <i folder="0" file="9"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_шея" realname="шея" type="sprite">
+            <frames>
+                <i folder="0" file="10"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_предплечье_000" realname="предплечье_000" type="sprite">
+            <frames>
+                <i folder="0" file="6"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_бедро_000" realname="бедро_000" type="sprite">
+            <frames>
+                <i folder="0" file="0"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_икра_000" realname="икра_000" type="sprite">
+            <frames>
+                <i folder="0" file="2"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_кисть_000" realname="кисть_000" type="sprite">
+            <frames>
+                <i folder="0" file="3"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_ножки_000" realname="ножки_000" type="sprite">
+            <frames>
+                <i folder="0" file="4"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_плечо_000" realname="плечо_000" type="sprite">
+            <frames>
+                <i folder="0" file="5"/>
+            </frames>
+        </obj_info>
+        <obj_info name="entity_000_тело_000" realname="тело_000" type="bone" w="111.576" h="10"/>
+        <obj_info name="entity_000_плечо правое" realname="плечо правое" type="bone" w="64.2824" h="10"/>
+        <obj_info name="entity_000_предплечье правое" realname="предплечье правое" type="bone" w="83.2093" h="10"/>
+        <obj_info name="entity_000_кисть правая" realname="кисть правая" type="bone" w="66.4252" h="10"/>
+        <obj_info name="entity_000_плечо левое" realname="плечо левое" type="bone" w="22.0609" h="10"/>
+        <obj_info name="entity_000_предплечье левое" realname="предплечье левое" type="bone" w="170.433" h="10"/>
+        <obj_info name="entity_000_кисть левая" realname="кисть левая" type="bone" w="47.5767" h="10"/>
+        <obj_info name="entity_000_голова_000" realname="голова_000" type="bone" w="73.2933" h="10"/>
+        <obj_info name="entity_000_бедро правое" realname="бедро правое" type="bone" w="62.4713" h="10"/>
+        <obj_info name="entity_000_икра правая" realname="икра правая" type="bone" w="162.15" h="10"/>
+        <obj_info name="entity_000_нога правая" realname="нога правая" type="bone" w="55.1523" h="10"/>
+        <obj_info name="entity_000_бедро левое" realname="бедро левое" type="bone" w="56.5702" h="10"/>
+        <obj_info name="entity_000_чашечка левая" realname="чашечка левая" type="bone" w="39.3356" h="10"/>
+        <obj_info name="entity_000_икра левая" realname="икра левая" type="bone" w="42.4242" h="10"/>
+        <obj_info name="entity_000_нога левая" realname="нога левая" type="bone" w="43.7037" h="10"/>
+        <animation id="0" name="stand" length="1000" interval="100">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="17" key="0"/>
+                    <bone_ref id="1" parent="0" timeline="18" key="0"/>
+                    <bone_ref id="2" parent="0" timeline="21" key="0"/>
+                    <bone_ref id="3" parent="0" timeline="24" key="0"/>
+                    <bone_ref id="4" timeline="19" key="0"/>
+                    <bone_ref id="5" parent="4" timeline="20" key="0"/>
+                    <bone_ref id="6" timeline="22" key="0"/>
+                    <bone_ref id="7" parent="6" timeline="23" key="0"/>
+                    <bone_ref id="8" timeline="25" key="0"/>
+                    <bone_ref id="9" timeline="26" key="0"/>
+                    <bone_ref id="10" parent="9" timeline="27" key="0"/>
+                    <bone_ref id="11" timeline="28" key="0"/>
+                    <bone_ref id="12" timeline="29" key="0"/>
+                    <bone_ref id="13" parent="12" timeline="30" key="0"/>
+                    <bone_ref id="14" parent="13" timeline="31" key="0"/>
+                    <object_ref id="0" parent="11" name="бедро" folder="0" file="0" abs_x="-404.762626" abs_y="-73.989899" abs_angle="40.704633" abs_scale_x="1.388702" abs_scale_y="1.20524" abs_a="1" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" parent="3" name="голова" folder="0" file="1" abs_x="-107.323232" abs_y="405.30303" abs_angle="7.69016" abs_scale_x="1.3369" abs_scale_y="1.260309" abs_a="1" timeline="1" key="0" z_index="1"/>
+                    <object_ref id="2" parent="13" name="икра" folder="0" file="2" abs_x="-204.671717" abs_y="-92.80303" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="2"/>
+                    <object_ref id="3" parent="7" name="кисть" folder="0" file="3" abs_x="-337.752079" abs_y="-99.531558" abs_angle="81.416012" abs_scale_x="1.332192" abs_scale_y="1.424661" abs_a="1" timeline="3" key="0" z_index="3"/>
+                    <object_ref id="4" parent="14" name="ножки" folder="0" file="4" abs_x="-243.308081" abs_y="-230.176768" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="4"/>
+                    <object_ref id="5" parent="2" name="плечо" folder="0" file="5" abs_x="-225.843709" abs_y="145.594258" abs_angle="57.35536" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="4" name="предплечье" folder="0" file="6" abs_x="-240.977959" abs_y="-103.80469" abs_angle="111.25837" abs_scale_x="1.153701" abs_scale_y="1.216057" abs_a="1" timeline="6" key="0" z_index="6"/>
+                    <object_ref id="7" parent="9" name="сухожилия между преплечьем и плечем" folder="0" file="7" abs_x="-3.914141" abs_y="-59.722222" abs_angle="0" abs_scale_x="0.472847" abs_scale_y="0.486113" abs_a="1" timeline="7" key="0" z_index="7"/>
+                    <object_ref id="8" parent="0" name="тело" folder="0" file="8" abs_x="-234.722222" abs_y="287.5" abs_angle="8.289404" abs_scale_x="0.867811" abs_scale_y="0.888469" abs_a="1" timeline="8" key="0" z_index="8"/>
+                    <object_ref id="9" parent="12" name="чашечная кость" folder="0" file="9" abs_x="-219.69697" abs_y="-80.050505" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="9" key="0" z_index="9"/>
+                    <object_ref id="10" parent="3" name="шея" folder="0" file="10" abs_x="-150" abs_y="377.777778" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="10" key="0" z_index="10"/>
+                    <object_ref id="11" parent="4" name="предплечье_000" folder="0" file="6" abs_x="131.432998" abs_y="-104.294295" abs_angle="235.764363" abs_scale_x="-1.070474" abs_scale_y="1.081387" abs_a="1" timeline="11" key="0" z_index="11"/>
+                    <object_ref id="12" parent="8" name="бедро_000" folder="0" file="0" abs_x="231.944444" abs_y="107.070707" abs_angle="260.39788" abs_scale_x="1.12375" abs_scale_y="1.164159" abs_a="1" timeline="12" key="0" z_index="12"/>
+                    <object_ref id="13" parent="9" name="икра_000" folder="0" file="2" abs_x="-22.474747" abs_y="-94.065657" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="13" key="0" z_index="13"/>
+                    <object_ref id="14" parent="4" name="кисть_000" folder="0" file="3" abs_x="238.473626" abs_y="-142.136253" abs_angle="264.929146" abs_scale_x="-1.490446" abs_scale_y="1.478815" abs_a="1" timeline="14" key="0" z_index="14"/>
+                    <object_ref id="15" parent="10" name="ножки_000" folder="0" file="4" abs_x="153.787879" abs_y="-218.560606" abs_angle="6.10278" abs_scale_x="-1.01531" abs_scale_y="1" abs_a="1" timeline="15" key="0" z_index="15"/>
+                    <object_ref id="16" parent="1" name="плечо_000" folder="0" file="5" abs_x="50.879291" abs_y="316.711137" abs_angle="321.548855" abs_scale_x="1" abs_scale_y="1.07989" abs_a="1" timeline="16" key="0" z_index="16"/>
+                </key>
+                <key id="1" time="498">
+                    <bone_ref id="0" timeline="17" key="0"/>
+                    <bone_ref id="1" parent="0" timeline="18" key="0"/>
+                    <bone_ref id="2" parent="0" timeline="21" key="0"/>
+                    <bone_ref id="3" parent="0" timeline="24" key="0"/>
+                    <bone_ref id="4" timeline="19" key="0"/>
+                    <bone_ref id="5" parent="4" timeline="20" key="0"/>
+                    <bone_ref id="6" timeline="22" key="0"/>
+                    <bone_ref id="7" parent="6" timeline="23" key="0"/>
+                    <bone_ref id="8" timeline="25" key="0"/>
+                    <bone_ref id="9" timeline="26" key="0"/>
+                    <bone_ref id="10" parent="9" timeline="27" key="0"/>
+                    <bone_ref id="11" timeline="28" key="0"/>
+                    <bone_ref id="12" timeline="29" key="0"/>
+                    <bone_ref id="13" parent="12" timeline="30" key="0"/>
+                    <bone_ref id="14" parent="13" timeline="31" key="0"/>
+                    <object_ref id="0" parent="11" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" parent="3" timeline="1" key="0" z_index="1"/>
+                    <object_ref id="2" parent="13" timeline="2" key="0" z_index="2"/>
+                    <object_ref id="3" parent="7" timeline="3" key="1" z_index="3"/>
+                    <object_ref id="4" parent="14" timeline="4" key="0" z_index="4"/>
+                    <object_ref id="5" parent="2" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="4" timeline="6" key="1" z_index="6"/>
+                    <object_ref id="7" parent="9" timeline="7" key="0" z_index="7"/>
+                    <object_ref id="8" parent="0" timeline="8" key="0" z_index="8"/>
+                    <object_ref id="9" parent="12" timeline="9" key="0" z_index="9"/>
+                    <object_ref id="10" parent="3" timeline="10" key="0" z_index="10"/>
+                    <object_ref id="11" parent="4" timeline="11" key="1" z_index="11"/>
+                    <object_ref id="12" parent="8" timeline="12" key="0" z_index="12"/>
+                    <object_ref id="13" parent="9" timeline="13" key="0" z_index="13"/>
+                    <object_ref id="14" parent="4" timeline="14" key="1" z_index="14"/>
+                    <object_ref id="15" parent="10" timeline="15" key="0" z_index="15"/>
+                    <object_ref id="16" parent="1" timeline="16" key="1" z_index="16"/>
+                </key>
+                <key id="2" time="584">
+                    <bone_ref id="0" timeline="17" key="0"/>
+                    <bone_ref id="1" parent="0" timeline="18" key="0"/>
+                    <bone_ref id="2" parent="0" timeline="21" key="0"/>
+                    <bone_ref id="3" parent="0" timeline="24" key="0"/>
+                    <bone_ref id="4" timeline="19" key="0"/>
+                    <bone_ref id="5" parent="4" timeline="20" key="0"/>
+                    <bone_ref id="6" timeline="22" key="0"/>
+                    <bone_ref id="7" parent="6" timeline="23" key="0"/>
+                    <bone_ref id="8" timeline="25" key="0"/>
+                    <bone_ref id="9" timeline="26" key="0"/>
+                    <bone_ref id="10" parent="9" timeline="27" key="0"/>
+                    <bone_ref id="11" timeline="28" key="0"/>
+                    <bone_ref id="12" timeline="29" key="0"/>
+                    <bone_ref id="13" parent="12" timeline="30" key="0"/>
+                    <bone_ref id="14" parent="13" timeline="31" key="0"/>
+                    <object_ref id="0" parent="11" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" parent="3" timeline="1" key="1" z_index="1"/>
+                    <object_ref id="2" parent="13" timeline="2" key="0" z_index="2"/>
+                    <object_ref id="3" parent="7" timeline="3" key="1" z_index="3"/>
+                    <object_ref id="4" parent="14" timeline="4" key="0" z_index="4"/>
+                    <object_ref id="5" parent="2" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="4" timeline="6" key="1" z_index="6"/>
+                    <object_ref id="7" parent="9" timeline="7" key="0" z_index="7"/>
+                    <object_ref id="8" parent="0" timeline="8" key="0" z_index="8"/>
+                    <object_ref id="9" parent="12" timeline="9" key="0" z_index="9"/>
+                    <object_ref id="10" parent="3" timeline="10" key="1" z_index="10"/>
+                    <object_ref id="11" parent="4" timeline="11" key="1" z_index="11"/>
+                    <object_ref id="12" parent="8" timeline="12" key="0" z_index="12"/>
+                    <object_ref id="13" parent="9" timeline="13" key="0" z_index="13"/>
+                    <object_ref id="14" parent="4" timeline="14" key="1" z_index="14"/>
+                    <object_ref id="15" parent="10" timeline="15" key="0" z_index="15"/>
+                    <object_ref id="16" parent="1" timeline="16" key="1" z_index="16"/>
+                </key>
+                <key id="3" time="877">
+                    <bone_ref id="0" timeline="17" key="0"/>
+                    <bone_ref id="1" parent="0" timeline="18" key="0"/>
+                    <bone_ref id="2" parent="0" timeline="21" key="0"/>
+                    <bone_ref id="3" parent="0" timeline="24" key="0"/>
+                    <bone_ref id="4" timeline="19" key="0"/>
+                    <bone_ref id="5" parent="4" timeline="20" key="0"/>
+                    <bone_ref id="6" timeline="22" key="0"/>
+                    <bone_ref id="7" parent="6" timeline="23" key="0"/>
+                    <bone_ref id="8" timeline="25" key="0"/>
+                    <bone_ref id="9" timeline="26" key="0"/>
+                    <bone_ref id="10" parent="9" timeline="27" key="0"/>
+                    <bone_ref id="11" timeline="28" key="0"/>
+                    <bone_ref id="12" timeline="29" key="0"/>
+                    <bone_ref id="13" parent="12" timeline="30" key="0"/>
+                    <bone_ref id="14" parent="13" timeline="31" key="0"/>
+                    <object_ref id="0" parent="11" timeline="0" key="1" z_index="0"/>
+                    <object_ref id="1" parent="3" timeline="1" key="1" z_index="1"/>
+                    <object_ref id="2" parent="13" timeline="2" key="1" z_index="2"/>
+                    <object_ref id="3" parent="7" timeline="3" key="1" z_index="3"/>
+                    <object_ref id="4" parent="14" timeline="4" key="1" z_index="4"/>
+                    <object_ref id="5" parent="2" timeline="5" key="0" z_index="5"/>
+                    <object_ref id="6" parent="4" timeline="6" key="1" z_index="6"/>
+                    <object_ref id="7" parent="9" timeline="7" key="1" z_index="7"/>
+                    <object_ref id="8" parent="0" timeline="8" key="0" z_index="8"/>
+                    <object_ref id="9" parent="12" timeline="9" key="0" z_index="9"/>
+                    <object_ref id="10" parent="3" timeline="10" key="1" z_index="10"/>
+                    <object_ref id="11" parent="4" timeline="11" key="1" z_index="11"/>
+                    <object_ref id="12" parent="8" timeline="12" key="1" z_index="12"/>
+                    <object_ref id="13" parent="9" timeline="13" key="1" z_index="13"/>
+                    <object_ref id="14" parent="4" timeline="14" key="1" z_index="14"/>
+                    <object_ref id="15" parent="10" timeline="15" key="1" z_index="15"/>
+                    <object_ref id="16" parent="1" timeline="16" key="1" z_index="16"/>
+                </key>
+            </mainline>
+            <timeline id="0" obj="0" name="бедро">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="288.485526" y="-63.781306" angle="200.328198" scale_x="1.388702" scale_y="1.20524"/>
+                </key>
+                <key id="1" time="877" spin="0">
+                    <object folder="0" file="0" x="285.019416" y="-56.218884" angle="200.328198" scale_x="1.388702" scale_y="1.20524"/>
+                </key>
+            </timeline>
+            <timeline id="1" obj="1" name="голова">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="98.507384" y="109.783269" angle="284.815177" scale_x="1.3369" scale_y="1.260309"/>
+                </key>
+                <key id="1" time="584" spin="0">
+                    <object folder="0" file="1" x="108.691288" y="114.026562" angle="284.815177" scale_x="1.3369" scale_y="1.260309"/>
+                </key>
+            </timeline>
+            <timeline id="2" obj="2" name="икра">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="-72.348485" y="-7.70202" angle="90"/>
+                </key>
+                <key id="1" time="877" spin="0">
+                    <object folder="0" file="2" x="-72.348485" y="-3.780452" angle="90"/>
+                </key>
+            </timeline>
+            <timeline id="3" obj="3" name="кисть">
+                <key id="0" spin="0">
+                    <object folder="0" file="3" x="59.194042" y="186.88361" angle="234.391251" scale_x="1.332192" scale_y="1.424661"/>
+                </key>
+                <key id="1" time="498" spin="0">
+                    <object folder="0" file="3" x="57.927497" y="175.713073" angle="234.391251" scale_x="1.332192" scale_y="1.424661"/>
+                </key>
+            </timeline>
+            <timeline id="4" obj="4" name="ножки">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="12.851955" y="-61.528298" angle="146.309932" scale_x="1"/>
+                </key>
+                <key id="1" time="877" spin="0">
+                    <object folder="0" file="4" x="9.045189" y="-63.703593" angle="146.309932" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="5" obj="5" name="плечо">
+                <key id="0" spin="0">
+                    <object folder="0" file="5" x="118.603339" y="-84.730636" angle="164.054604"/>
+                </key>
+            </timeline>
+            <timeline id="6" obj="6" name="предплечье">
+                <key id="0" spin="0">
+                    <object folder="0" file="6" x="-529.553178" y="-37.586141" angle="77.568303" scale_x="1.153701" scale_y="1.216057"/>
+                </key>
+                <key id="1" time="498" spin="0">
+                    <object folder="0" file="6" x="-510.211658" y="-25.178374" angle="77.568303" scale_x="1.153701" scale_y="1.216057"/>
+                </key>
+            </timeline>
+            <timeline id="7" obj="7" name="сухожилия между преплечьем и плечем">
+                <key id="0" spin="0">
+                    <object folder="0" file="7" x="-30.782644" y="-102.992253" angle="91.070824" scale_x="0.472847" scale_y="0.486113"/>
+                </key>
+                <key id="1" time="877" spin="0">
+                    <object folder="0" file="7" x="-30.672712" y="-108.873578" angle="91.070824" scale_x="0.472847" scale_y="0.486113"/>
+                </key>
+            </timeline>
+            <timeline id="8" obj="8" name="тело">
+                <key id="0" spin="0">
+                    <object folder="0" file="8" x="214.777637" y="217.673133" angle="282.167929" scale_x="0.867811" scale_y="0.888469"/>
+                </key>
+            </timeline>
+            <timeline id="9" obj="9" name="чашечная кость">
+                <key id="0" spin="0">
+                    <object folder="0" file="9" x="-7.304909" y="-36.660721" angle="105.642246"/>
+                </key>
+            </timeline>
+            <timeline id="10" obj="10" name="шея">
+                <key id="0" spin="0">
+                    <object folder="0" file="10" x="65.901283" y="148.716394" angle="277.125016"/>
+                </key>
+                <key id="1" time="584" spin="0">
+                    <object folder="0" file="10" x="48.601702" y="149.206005" angle="277.125016"/>
+                </key>
+            </timeline>
+            <timeline id="11" obj="11" name="предплечье_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="6" x="-219.960115" y="-244.569948" angle="202.074296" scale_x="-1.070474" scale_y="1.081387"/>
+                </key>
+                <key id="1" time="498" spin="0">
+                    <object folder="0" file="6" x="-213.756231" y="-247.124488" angle="202.074296" scale_x="-1.070474" scale_y="1.081387"/>
+                </key>
+            </timeline>
+            <timeline id="12" obj="12" name="бедро_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="90.007665" y="230.610957" angle="299.491739" scale_x="1.12375" scale_y="1.164159"/>
+                </key>
+                <key id="1" time="877" spin="0">
+                    <object folder="0" file="0" x="88.200537" y="226.616252" angle="299.491739" scale_x="1.12375" scale_y="1.164159"/>
+                </key>
+            </timeline>
+            <timeline id="13" obj="13" name="икра_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="3.90166" y="-120.907796" angle="91.070824"/>
+                </key>
+                <key id="1" time="877" spin="0">
+                    <object folder="0" file="2" x="-0.092512" y="-117.0602" angle="91.070824"/>
+                </key>
+            </timeline>
+            <timeline id="14" obj="14" name="кисть_000">
+                <key id="0">
+                    <object folder="0" file="3" x="-151.887871" y="-335.431817" angle="231.239078" scale_x="-1.490446" scale_y="1.478815"/>
+                </key>
+                <key id="1" time="498" spin="-1">
+                    <object folder="0" file="3" x="-138.020366" y="-333.607146" angle="235.743492" scale_x="-1.490446" scale_y="1.478815"/>
+                </key>
+            </timeline>
+            <timeline id="15" obj="15" name="ножки_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="41.832535" y="60.40743" angle="22.048176" scale_x="-1.01531" scale_y="1"/>
+                </key>
+                <key id="1" time="877" spin="0">
+                    <object folder="0" file="4" x="45.603218" y="61.484768" angle="22.048176" scale_x="-1.01531" scale_y="1"/>
+                </key>
+            </timeline>
+            <timeline id="16" obj="16" name="плечо_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="5" x="-93.243214" y="76.765596" angle="4.573921" scale_y="1.07989"/>
+                </key>
+                <key id="1" time="498" spin="0">
+                    <object folder="0" file="5" x="-96.706108" y="84.332659" angle="4.573921" scale_y="1.07989"/>
+                </key>
+            </timeline>
+            <timeline id="17" obj="17" name="тело_000" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="-32.075472" y="58.490566" angle="86.121475"/>
+                </key>
+            </timeline>
+            <timeline id="18" obj="18" name="плечо правое" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="144.841023" y="-89.149076" angle="230.853459"/>
+                </key>
+            </timeline>
+            <timeline id="19" obj="19" name="предплечье правое" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="178.787879" y="221.212121" angle="33.690068"/>
+                </key>
+            </timeline>
+            <timeline id="20" obj="20" name="кисть правая" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="134.028731" y="3.034821" angle="11.888658"/>
+                </key>
+            </timeline>
+            <timeline id="21" obj="21" name="плечо левое" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="170.642093" y="90.279816" angle="167.17928"/>
+                </key>
+            </timeline>
+            <timeline id="22" obj="22" name="предплечье левое" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="-187.878788" y="224.242424" angle="216.591088"/>
+                </key>
+            </timeline>
+            <timeline id="23" obj="23" name="кисть левая" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="223.907538" y="-3.825407" angle="350.433673"/>
+                </key>
+            </timeline>
+            <timeline id="24" obj="24" name="голова_000" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="236.3618" y="-5.494167" angle="356.753508"/>
+                </key>
+            </timeline>
+            <timeline id="25" obj="25" name="бедро правое" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="16.666667" y="-15.151515" angle="320.906141"/>
+                </key>
+            </timeline>
+            <timeline id="26" obj="26" name="икра правая" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="98.484848" y="-92.424242" angle="268.929176"/>
+                </key>
+            </timeline>
+            <timeline id="27" obj="27" name="нога правая" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="172.725423" y="1.713096" angle="75.125429"/>
+                </key>
+            </timeline>
+            <timeline id="28" obj="28" name="бедро левое" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="-112.121212" y="-33.333333" angle="200.376435"/>
+                </key>
+            </timeline>
+            <timeline id="29" obj="29" name="чашечка левая" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="-186.363636" y="-96.969697" angle="254.357754"/>
+                </key>
+            </timeline>
+            <timeline id="30" obj="30" name="икра левая" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="68.516349" y="8.170604" angle="15.642246"/>
+                </key>
+            </timeline>
+            <timeline id="31" obj="31" name="нога левая" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="109.090909" y="-1.515152" angle="303.690068" scale_x="1"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>
